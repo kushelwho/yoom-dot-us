@@ -37,8 +37,6 @@ export default function RootLayout({
             colorInputText: "#fff",
           },
         }}
-        signInFallbackRedirectUrl="/sign-in"
-        signUpFallbackRedirectUrl="/sign-up"
         signInUrl="/sign-in"
         signUpUrl="/sign-up"
         afterSignInUrl="/"
